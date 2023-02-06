@@ -1,1 +1,0 @@
-# lab_kubernetes_persistence_volume_secret_helm-
